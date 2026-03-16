@@ -1,0 +1,9 @@
+{
+  "name": "devops-assignment",
+  "version": "1.0.0",
+  "description": "CI/CD DevOps Assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
